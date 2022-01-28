@@ -1,0 +1,11 @@
+D:\LAPIN AMK\Olio2\tehtava1\tehtava1\bin\Debug\tehtava1.exe.config
+D:\LAPIN AMK\Olio2\tehtava1\tehtava1\bin\Debug\tehtava1.exe
+D:\LAPIN AMK\Olio2\tehtava1\tehtava1\bin\Debug\tehtava1.pdb
+D:\LAPIN AMK\Olio2\tehtava1\tehtava1\obj\Debug\tehtava1.csproj.AssemblyReference.cache
+D:\LAPIN AMK\Olio2\tehtava1\tehtava1\obj\Debug\tehtava1.csproj.SuggestedBindingRedirects.cache
+D:\LAPIN AMK\Olio2\tehtava1\tehtava1\obj\Debug\tehtava1.Form1.resources
+D:\LAPIN AMK\Olio2\tehtava1\tehtava1\obj\Debug\tehtava1.Properties.Resources.resources
+D:\LAPIN AMK\Olio2\tehtava1\tehtava1\obj\Debug\tehtava1.csproj.GenerateResource.cache
+D:\LAPIN AMK\Olio2\tehtava1\tehtava1\obj\Debug\tehtava1.csproj.CoreCompileInputs.cache
+D:\LAPIN AMK\Olio2\tehtava1\tehtava1\obj\Debug\tehtava1.exe
+D:\LAPIN AMK\Olio2\tehtava1\tehtava1\obj\Debug\tehtava1.pdb
